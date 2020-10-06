@@ -30,7 +30,8 @@ function cfe_evento_cpt()
 
     $evento->set_arguments(
         array(
-            'supports' => array('title')
+            'supports' => array('title'),
+            'menu_icon'    => 'dashicons-calendar-alt'
         )
     );
 }

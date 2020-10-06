@@ -1,0 +1,24 @@
+{
+    "name": "Cf Eventos",
+    "version": "0.1.0",
+    "download_url": "https://github.com/IngoStramm/cf-eventos/raw/master/dist/cf-eventos.zip",
+    "homepage": "https://agencialaf.com",
+    "requires": "4.5",
+    "tested": "5.5.1",
+    "last_updated": "2020-10-06 17:00:00",
+    "upgrade_notice": "Atualização do Cf Eventos disponível",
+    "author": "Ingo Stramm",
+    "author_homepage": "https://agencialaf.com",
+    "sections": {
+        "description": "Este plugin é parte integrante do ConverteFácil.",
+        "installation": "A instalação deste plugin deve ser feita pelo Converte Fácil."
+    },
+    "icons": {
+        "1x": "https://github.com/IngoStramm/cf-eventos/raw/master/assets/images/plugin-banner-128x128.jpg",
+        "2x": "https://github.com/IngoStramm/cf-eventos/raw/master/assets/images/plugin-banner-256x256.jpg"
+    },
+    "banners": {
+        "low": "https://github.com/IngoStramm/cf-eventos/raw/master/assets/images/plugin-banner-772x250.jpg",
+        "high": "https://github.com/IngoStramm/cf-eventos/raw/master/assets/images/plugin-banner-1544x500.jpg"
+    }
+}

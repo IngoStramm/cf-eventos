@@ -10,7 +10,8 @@ function cfe_evento_shortcode($atts)
     $output = '';
     $evento_id = $a['id'];
     $args = array(
-        'post_type' => 'evento'
+        'post_type' => 'evento',
+        'posts_per_page' => -1
     );
 
     $the_query = new WP_Query($args);

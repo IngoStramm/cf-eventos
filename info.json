@@ -1,11 +1,11 @@
 {
     "name": "Cf Eventos",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "download_url": "https://github.com/IngoStramm/cf-eventos/raw/master/dist/cf-eventos.zip",
     "homepage": "https://agencialaf.com",
     "requires": "4.5",
     "tested": "5.5.1",
-    "last_updated": "2020-10-06 17:12:00",
+    "last_updated": "2020-10-07 17:50:00",
     "upgrade_notice": "Atualização do Cf Eventos disponível",
     "author": "Ingo Stramm",
     "author_homepage": "https://agencialaf.com",

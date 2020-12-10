@@ -50,10 +50,4 @@ function cfe_evento_metabox()
         'default' => 0
     ));
 
-    $cmb_evento->add_field(array(
-        'name' => esc_html__('Formulário', 'cfe'),
-        'id'   => 'cfe_formulario',
-        'type' => 'text',
-    ));
-
 }

@@ -1,6 +1,6 @@
 {
     "name": "Cf Eventos",
-    "version": "0.1.2",
+    "version": "1.0.0",
     "download_url": "https://github.com/IngoStramm/cf-eventos/raw/master/dist/cf-eventos.zip",
     "homepage": "https://agencialaf.com",
     "requires": "4.5",

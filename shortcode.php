@@ -36,8 +36,8 @@ function cfe_evento_shortcode($atts)
                 $output .= '<h3>' . __('Encerrado!', 'cfe') . '</h3>';
                 $output .= '<p>' . __('As vagas para', 'cfe') . ' ' . date('d/m/Y, \à\s H\h:i', $cfe_data_horario) . ', ' . __('já se esgotaram.', 'cfe') . '</p>';
             } else {
-                $formulario = get_post_meta(get_the_ID(), 'cfe_formulario', true);
-                $output .= do_shortcode($formulario);
+                $output .=
+                \Elementor\Plugin::$instance->frontend->get_builder_content(get_the_ID(), true);
             }
         }
     }

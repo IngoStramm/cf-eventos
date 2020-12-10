@@ -69,6 +69,12 @@ function cfe_register_required_plugins()
             'required'  => true,
         ),
 
+        array(
+            'name'      => 'Elementor',
+            'slug'      => 'elementor',
+            'required'  => true,
+        ),
+
     );
 
     /*

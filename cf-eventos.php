@@ -8,7 +8,7 @@
  * Author URI:      https://agencialaf.com
  * Text Domain:     cfe
  * Domain Path:     /languages
- * Version:         0.1.2
+ * Version:         1.0.0
  *
  * @package         Cf_Eventos
  */
